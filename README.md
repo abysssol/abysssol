@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I care most about code correctness and almost as much about performance, with a secondary focus on ease of use, perceptual simplicity, feature completeness, and good documentation. I think that good documentation is too often underestimated, to the great detriment of all (look to Rust for an unfortunately uncommon example of high quality, easily accessible, and (mostly) comprehensive documentation).
-
 I have a particular interest in game design, originally learning programming so I could create a video game, though got distracted learning about efficient programming patterns and algorithm design, then learned Rust, moved to Debian (Linux) as a primary operating system, then to Arch Linux, and finally discovered and settled on Nixos, gradually learning more advanced usage of Nix. I have more recently started to seriously consider focusing on game development and producing a real, playable game available on Steam and other platforms (I have made several prototypes before, but they never amounted to much).
 
 I am also interested in programming language design, especially liking machine checked correctness (think Rust and Haskell) with a casual interest in formal verification (particularly [Magmide](https://github.com/magmide/magmide)). I also like studying how to design powerful features (like macros, traits/interfaces/typeclasses, async, etc) in a user-friendly manner that is as easy to use and as simple as possible, without sacrificing too much capability (such as optional, incremental levels of complexity that can be easily accessed if necessary, but are "hidden" by default).
+
+I care most about code correctness and almost as much about performance, with a secondary focus on ease of use, perceptual simplicity, feature completeness, and good documentation. I think that good documentation is too often underestimated, to the great detriment of all (look to Rust for an unfortunately uncommon example of high quality, easily accessible, and (mostly) comprehensive documentation).
 
 Please contact me at <abysssol@pm.me> if you want to introduce me to a new project, work together with me, hire me, or just show me something cool that you like.
 
@@ -51,4 +51,5 @@ Here are some things that I currently do and want to start doing:
   - optional easy code verification/proofs (hopefully built on top of [Magmide](https://github.com/magmide/magmide) if it succeeds)
   - custom assembly/machine code generation based on compile time information that isn't usable in llvm if [Magmide](https://github.com/magmide/magmide) never happens
  
-- I have several ideas for a novel, mostly science fiction, also fantasy. I'm seriously considering creating an extensive edit of Reverend Insanity for better readability in English.
+- I have several ideas for a novel, mostly science fiction, also fantasy
+  - I'm seriously considering creating an extensive edit of Reverend Insanity for better readability in English. I would develop a small complementary program to allow different versions to be generated, like toggling transliterated names on or off
