@@ -48,5 +48,7 @@ Here are some things that I currently do and want to start doing:
   - automatic data structure optimization, such as transparently transforming a list of "structures"/"records" into multiple lists to minimize padding/wasted bytes and bits, as well as other data packing techniques like automatically packing booleans and other sub-byte-sized types together,  which is important for cache optimization.
     - Also automatically altering list or map/table implementation based on heuristics, for example choosing between hashing or btree maps based on known performance characteristics, even switching between implementations at runtime based on map size or branch taken
     - Automatically optimizing functional code with immutable data into machine code that mutates memory to improve performance and memory usage (Rust's borrow checking technique should help here)
-  - optional easy code verification/proofs (hopefully built on top of [magmide](https://github.com/magmide/magmide) if it succeeds)
-  - custom assembly/machine code generation based on compile time information that isn't usable in llvm if [magmide](https://github.com/magmide/magmide) never happens
+  - optional easy code verification/proofs (hopefully built on top of [Magmide](https://github.com/magmide/magmide) if it succeeds)
+  - custom assembly/machine code generation based on compile time information that isn't usable in llvm if [Magmide](https://github.com/magmide/magmide) never happens
+ 
+- I have several ideas for a novel, mostly science fiction, also fantasy. I'm seriously considering creating an extensive edit of Reverend Insanity for better readability in English.
