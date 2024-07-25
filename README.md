@@ -11,7 +11,7 @@ I am also interested in programming language design, especially liking machine c
 
 I care most about code correctness and almost as much about performance, with a secondary focus on ease of use, perceptual simplicity, feature completeness, and good documentation. I think that good documentation is too often underestimated, to the great detriment of all (look to Rust for an unfortunately uncommon example of high quality, easily accessible, and (mostly) comprehensive documentation).
 
-Please contact me at <abysssol@pm.me> if you want to introduce me to a new project, work together with me, hire me, or just show me something cool that you like.
+Please contact me at <abysssol@pm.me> if you want to introduce me to a new project, collaborate with me, hire me, or just show me something cool that you like.
 
 Here are some things that I currently do and want to start doing:
 
