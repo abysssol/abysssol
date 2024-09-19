@@ -42,6 +42,6 @@ Here are some things that I currently do and want to start doing:
   - custom assembly/machine code generation based on compile time information that isn't usable in llvm if [Magmide](https://github.com/magmide/magmide) never happens
  
 - I have several ideas for a novel, mostly science fiction, also fantasy
-  - I'm seriously considering creating an extensive edit of Reverend Insanity for better readability in English. I would develop a small complementary program to allow different versions to be generated, like toggling transliterated names on or off
+  - I'm seriously considering creating an extensive edit of Reverend Insanity for better readability in English. I would also develop a small complementary program to allow different versions to be generated, like toggling transliterated names on or off
 
 - I would start a youtube channel (and/or blog), but I'm not really sure what people might be interested in, and what topics are currently lacking adequate coverage. If you have any ideas or suggestions on what would interest you, please email me and tell me! I'd love to hear what topics you're interested in that you can't find enough content on.
